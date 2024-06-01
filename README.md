@@ -1,9 +1,12 @@
-Project - Task (add,view,update,delete) using Django REST framework 
+# Project - Task (add,view,update,delete) using Django REST framework 
 
 Description
 
 This Django REST Framework project provides a robust API for managing tasks. Users can create, retrieve, update, and delete tasks, with filtering 
 options to view due and completed tasks. User registration is also included.
+
+![screenshot](screenshot/screenshot/home.png)
+
 
 Features
 
