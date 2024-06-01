@@ -5,7 +5,7 @@ Description
 This Django REST Framework project provides a robust API for managing tasks. Users can create, retrieve, update, and delete tasks, with filtering 
 options to view due and completed tasks. User registration is also included.
 
-![screenshot](screenshot/screenshot/Rest.png)
+![screenshot](screenshot/screenshot/rest.png)
 
 
 Features
